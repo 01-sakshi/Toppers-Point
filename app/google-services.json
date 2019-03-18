@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "487151201790",
+    "firebase_url": "https://myphoneauthproject-a98b3.firebaseio.com",
+    "project_id": "myphoneauthproject-a98b3",
+    "storage_bucket": "myphoneauthproject-a98b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487151201790:android:e416474b61e838b7",
+        "android_client_info": {
+          "package_name": "jalandhar.sakshiaggarwal.myfirebasephone"
+        }
+      },
+
+      "oauth_client": [
+        {
+          "client_id": "487151201790-b2bscobirghtqi0neb2lpvbqsqgnlavl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {  //
+            "package_name": "jalandhar.sakshiaggarwal.myfirebasephone",
+            "certificate_hash": "e1bf66d66a11525bcb1dcce06d719ac29155fef7"
+          }
+        },
+        {
+          "client_id": "487151201790-9r1amutd3j272rrhcqbcnhnn8o0p1884.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      //yr ek baar aya bas otp us number pr ab aa hi nhi rhaachha log cat dik
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjY6QJb2hNONgMdsX7XimvVSxu-CQs_rA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487151201790-9r1amutd3j272rrhcqbcnhnn8o0p1884.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
